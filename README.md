@@ -2,7 +2,7 @@
 
 #### What is this?
 
-A simple tic-tac-toe project made in javascript, html, and css. Based on the example provided [here].(https://www.geeksforgeeks.org/simple-tic-tac-toe-game-using-javascript/).
+A simple tic-tac-toe project made in javascript, html, and css. Based on the example provided [here](https://www.geeksforgeeks.org/simple-tic-tac-toe-game-using-javascript/).
 
 #### Why?
 
